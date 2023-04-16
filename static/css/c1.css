@@ -1,0 +1,15 @@
+#a{
+    color:red;
+    background-color:aqua;
+}
+#a:hover{
+    color:green;
+    background-color:yellow;;
+}
+td:hover{
+    color:blueviolet;
+    background-color:aquamarine;
+}
+body{
+    background-color:azure;
+}

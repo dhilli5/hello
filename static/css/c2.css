@@ -1,0 +1,42 @@
+.a{
+    color:yellow;
+}
+.a:hover{
+    color:red;
+    background-color:blue;
+}
+.b:hover{
+    color:blue;
+    background-color:bisque
+}
+.c:hover{
+    color:blueviolet;
+    background-color:aqua;
+}
+.d:hover{
+    color:brown;
+    background-color:blue;
+}
+.e:hover{
+    color:rgba(0, 255, 42, 0.216);
+    background-color:bisque;
+}
+.f:hover{
+    color:blue;
+    background-color:aqua;
+}
+.g:hover{
+    color:red;
+    background-color:blue;
+}
+.h:hover{
+    color:aqua;
+    background-color:bisque;
+}
+.i:hover{
+    color:blue;
+    background-color:aqua;
+}
+body{
+    background-color:aquamarine
+}
